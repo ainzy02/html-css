@@ -5,3 +5,18 @@ body{
 {
     height: 98vh;
 }
+.dda
+{
+
+    resize: both;
+    overflow: auto;
+    z-index: 0;
+    left:60%;
+    position: fixed;
+}
+.aad
+{
+    position: static;
+    z-index:1 !important;
+}
+
